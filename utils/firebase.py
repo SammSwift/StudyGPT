@@ -16,7 +16,7 @@ service_key = {
 }
 
 firebaseConfig = {
-    "apiKey": "AIzaSyB6mhQJR3zKAh7XP4GX8YxgDXadgPlguac",
+    "apiKey": "",
     "authDomain": "flipbot-4f922.firebaseapp.com",
     "projectId": "flipbot-4f922",
     "storageBucket": "flipbot-4f922.appspot.com",
